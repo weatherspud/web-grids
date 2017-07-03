@@ -1,0 +1,19 @@
+* set start col/start row in superhex automatically
+* modular arithmetic for letters
+
+* default hexagonal grid to "no coordinates"
+
+* "Create Hexagonal Grid of Hexes"
+
+----
+* specify start column as letter
+
+* validate form input
+* error messages
+
+* style grid creation form nicely
+----
+
+* set grid color
+* set coordinates color
+* background color
