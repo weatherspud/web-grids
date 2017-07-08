@@ -451,6 +451,10 @@
           });
         }
       }
+      let styleTags = document.getElementsByTagName('style');
+      for (let i = styleTags.length - 1; i >= 0; --i) {
+        styleTags[i].parentNode.removeChild(styleTags[i]);
+      }
       document.body.appendChild(svg);
     } else {
       render_forms(url);
