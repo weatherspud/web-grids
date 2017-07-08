@@ -303,7 +303,7 @@
     form.appendChild(input_rotate30);
 
     let label_rotate30 = document.createElement('label');
-    label_rotate30.textContent = 'Rotate Hexes 30 Degrees';
+    label_rotate30.textContent = ' Rotate Hexes 30 Degrees';
     form.appendChild(label_rotate30);
 
     form.appendChild(document.createElement('br'));
